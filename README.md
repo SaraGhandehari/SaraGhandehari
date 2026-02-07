@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sara Ghandehari</h1>
+<h3 align="center">Backend & Computer Vision Developer (Junior & Learning)</h3>
 
-<!--
-**SaraGhandehari/SaraGhandehari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🎯 Junior Backend Developer with interest in Computer Vision
+- 📷 Working with image processing & data analysis
+- 🌱 Currently learning and improving my skills every day
+- 💡 Interested in AI, OpenCV and real-world problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Tools
+
+### 🔹 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js,php" />
+</p>
+
+### 🔹 Libraries & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- OpenCV  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+
+### 🔹 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL  
+- SQL Server  
+
+### 🔹 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+- 📬 Email: saraghandehari1385@gmail.com
+- 💬 Telegram: [@sara02006](https://t.me/sara02006)
+
+---
+
+⭐ *Always learning, always building*
