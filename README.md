@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara Ghandehari</h1>
-<h3 align="center">Backend & Computer Vision Developer (Junior & Learning)</h3>
+<h3 align="center">Backend & Computer Vision Developer</h3>
 
 ---
 
