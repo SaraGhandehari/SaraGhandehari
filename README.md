@@ -1,49 +1,44 @@
 <h1 align="center">Hi 👋, I'm Sara Ghandehari</h1>
-<h3 align="center">Backend & Computer Vision Developer</h3>
+<h3 align="center">Computer Vision Developer</h3>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎯 Junior Backend Developer with interest in Computer Vision
-- 📷 Working with image processing & data analysis
-- 🌱 Currently learning and improving my skills every day
-- 💡 Interested in AI, OpenCV and real-world problem solving
+
+* 🎯 Junior Computer Vision Developer focused on real-world image processing problems
+* 📷 Working with image processing, data analysis, and machine learning
+* 🌱 Continuously improving my skills through hands-on projects
+* 💡 Interested in AI, OpenCV, and practical applications of computer vision
 
 ---
 
 ## 🛠 Skills & Tools
 
-### 🔹 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js,php" />
-</p>
+### 🔹 Programming
 
-### 🔹 Libraries & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- OpenCV  
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Scikit-learn  
+### 🔹 Libraries & Frameworks
 
-### 🔹 Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://cdn.simpleicons.org/opencv/white" height="40" />
+  <img src="https://cdn.simpleicons.org/numpy/white" height="40" />
+  <img src="https://cdn.simpleicons.org/pandas/white" height="40" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/white" height="40" />
+  <img src="https://cdn.simpleicons.org/matplotlib/white" height="40" />
 </p>
 
-- MySQL  
-- SQL Server  
-
 ### 🔹 Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git" />
 </p>
 
+---
 
 ## 🌐 Connect with Me
-- 📬 Email: saraghandehari1385@gmail.com
-- 💬 Telegram: [@sara02006](https://t.me/sara02006)
 
+* 📬 Email: saraghandehari1385@gmail.com
+* 💬 Telegram: https://t.me/sara02006
