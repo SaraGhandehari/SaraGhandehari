@@ -17,18 +17,15 @@
 ### 🔹 Programming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,cs" />
 </p>
 
 ### 🔹 Libraries & Frameworks
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/opencv/white" height="40" />
-  <img src="https://cdn.simpleicons.org/numpy/white" height="40" />
-  <img src="https://cdn.simpleicons.org/pandas/white" height="40" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/white" height="40" />
-  <img src="https://cdn.simpleicons.org/matplotlib/white" height="40" />
+  <img src="https://skillicons.dev/icons?i=opencv,numpy,pandas,matplotlib,sklearn" />
 </p>
+
 
 ### 🔹 Tools
 
